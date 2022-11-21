@@ -14,7 +14,7 @@ JavaScript are compiled and minified on GitHub Actions.
 ## Installation
 
 To install this package, you can use our [R-universe repository](https://carpentries.r-universe.dev),
-which is updated hourly.
+which is updated hourly. 
 
 ```r
 install.packages("varnish", repos = "https://carpentries.r-universe.dev")
